@@ -9,7 +9,7 @@
                 "s3:GetObject","s3GetObjectVersion"
             ],
             "Resource": [
-                "arn:aws:s3:::mayana/*"
+                "*"
             ]
         }
     ]
